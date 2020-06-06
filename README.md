@@ -1,5 +1,5 @@
 # SnapChat Lens
-
+# [My Lens creator profile to see live preview of them](https://lensstudio.snapchat.com/creator/d0tW0Mc810mREeTnCcl-ew)
 This repo contains all snapchat lens made by me feel free to use them, but do star this repo.
   - Crazy Lens
   - Earth lens
