@@ -1,0 +1,2921 @@
+{
+    "lens_id": "987cf1b3-308d-42d3-9394-b1f019aa9dbc",
+    "document_id": "A_h8G-SRwVGsp-capD-R",
+    "original_document_id": "N-nPDpx00JOtJtwmHMDI",
+    "version": "23",
+    "lastChanged": "1590869309317",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "2020-05-30T19:54:41.752Z",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "left_eye_sprite_material"
+                    ],
+                    [
+                        "Materials",
+                        "mouth_sprite_material"
+                    ],
+                    [
+                        "Materials",
+                        "nose_sprite_material"
+                    ],
+                    [
+                        "Materials",
+                        "pink_guide"
+                    ],
+                    [
+                        "Materials",
+                        "right_eye_sprite_material"
+                    ],
+                    [
+                        "Materials",
+                        "slide_head_sprite_material"
+                    ],
+                    [
+                        "Materials",
+                        "slide_mouth_sprite_material"
+                    ],
+                    [
+                        "Materials",
+                        "yellow_guide"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "PaperHeadController"
+                    ],
+                    [
+                        "Scripts",
+                        "PaperHeadProperties"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Debug"
+                    ],
+                    [
+                        "Textures",
+                        "Debug",
+                        "debug_sprite"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Left"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Left",
+                        "Animated Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Left",
+                        "Animated Textures",
+                        "eye_left_animated_texture"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Left",
+                        "Texture Sequence"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Left",
+                        "Texture Sequence",
+                        "eye_left_1"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Left",
+                        "Texture Sequence",
+                        "eye_left_2"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Right"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Right",
+                        "Animated Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Right",
+                        "Animated Textures",
+                        "eye_right_animated_texture"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Right",
+                        "Texture Sequence"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Right",
+                        "Texture Sequence",
+                        "eye_right_1"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Right",
+                        "Texture Sequence",
+                        "eye_right_2"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Right",
+                        "Texture Sequence",
+                        "eye_right_3"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Right",
+                        "Texture Sequence",
+                        "eye_right_4"
+                    ],
+                    [
+                        "Textures",
+                        "Eye Right",
+                        "Texture Sequence",
+                        "eye_right_5"
+                    ],
+                    [
+                        "Textures",
+                        "Head"
+                    ],
+                    [
+                        "Textures",
+                        "Head",
+                        "head_sliding"
+                    ],
+                    [
+                        "Textures",
+                        "Mouth"
+                    ],
+                    [
+                        "Textures",
+                        "Mouth",
+                        "Animated Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Mouth",
+                        "Animated Textures",
+                        "mouth_animated_texture"
+                    ],
+                    [
+                        "Textures",
+                        "Mouth",
+                        "Sliding Mouth"
+                    ],
+                    [
+                        "Textures",
+                        "Mouth",
+                        "Sliding Mouth",
+                        "mouth_sliding"
+                    ],
+                    [
+                        "Textures",
+                        "Mouth",
+                        "Texture Sequence"
+                    ],
+                    [
+                        "Textures",
+                        "Mouth",
+                        "Texture Sequence",
+                        "mouth_1"
+                    ],
+                    [
+                        "Textures",
+                        "Mouth",
+                        "Texture Sequence",
+                        "mouth_2"
+                    ],
+                    [
+                        "Textures",
+                        "Mouth",
+                        "Texture Sequence",
+                        "mouth_3"
+                    ],
+                    [
+                        "Textures",
+                        "Mouth",
+                        "Texture Sequence",
+                        "mouth_4"
+                    ],
+                    [
+                        "Textures",
+                        "Mouth",
+                        "Texture Sequence",
+                        "mouth_5"
+                    ],
+                    [
+                        "Textures",
+                        "Nose"
+                    ],
+                    [
+                        "Textures",
+                        "Nose",
+                        "nose"
+                    ],
+                    [
+                        "Textures",
+                        "sprite_texture"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517446348227994:84813",
+                    "1543431498920718:12509",
+                    "1543431498920916:12512",
+                    "1543434015996082:35502",
+                    "1543434131426888:51754",
+                    "1543441922294218:195836",
+                    "1543446458371844:244415",
+                    "1543446458378588:244597",
+                    "1543448436049900:283657",
+                    "1543450241999985:316818",
+                    "1543539220588613:122086",
+                    "1543540066040406:184274",
+                    "1543540066050076:184456",
+                    "1543612545259138:149429",
+                    "1544642740602078:870757",
+                    "1544642756936287:876273",
+                    "1544643017752251:994605"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "cde1a3bf4e29460ba4d8bed60791e0f8",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Robo Face",
+            "applicability": "7",
+            "lens_descriptors": [
+                "SUPPORTS_NEWPORT_DEPTH"
+            ]
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 6.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Smile Person 6.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1543431638715040:18349",
+                    "1543433964880769:27889",
+                    "1543433997133844:32304",
+                    "1543434001825727:33395",
+                    "1543434015996164:35511",
+                    "1543439045695685:157257",
+                    "1543441922294310:195845",
+                    "1543446458371930:244424",
+                    "1543446458378712:244606",
+                    "1543450242000068:316827",
+                    "1543540066040492:184283",
+                    "1552328961106906:11359"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1543431483277630:12483",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1543431483323381:12496",
+                    "name": "\/Resources\/Resource11.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1543431622017236:17733",
+                    "name": "\/Resources\/Resource14.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1543432111502216:19790",
+                    "name": "\/Resources\/Resource15.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1543441892428511:193116",
+                    "name": "\/Resources\/Resource32.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1543441892536917:193128",
+                    "name": "\/Resources\/Resource33.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1543441892629558:193140",
+                    "name": "\/Resources\/Resource34.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1543441892729196:193151",
+                    "name": "\/Resources\/Resource35.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1543441892837273:193164",
+                    "name": "\/Resources\/Resource36.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1543448430325754:281528",
+                    "name": "\/Resources\/Resource40.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1543539210157887:121245",
+                    "name": "\/Resources\/Resource43.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1543539210193558:121257",
+                    "name": "\/Resources\/Resource44.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1543539210262148:121269",
+                    "name": "\/Resources\/Resource45.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1543539210305854:121281",
+                    "name": "\/Resources\/Resource46.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1543539210372422:121293",
+                    "name": "\/Resources\/Resource47.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1543612460183348:148700",
+                    "name": "\/Resources\/Resource53.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1543613002945803:169157",
+                    "name": "\/Resources\/Resource55.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1543883877111795:2122687",
+                    "name": "\/Resources\/Resource68.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1543888185240900:2427836",
+                    "name": "\/Resources\/Resource70",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1543888227488279:2435953",
+                    "name": "\/Resources\/Resource71",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1544577589978078:95755",
+                    "name": "\/Resources\/Resource76",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "77",
+                    "uid": "1544580188402617:41915",
+                    "name": "\/Resources\/Resource77",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1544580204214916:41942",
+                    "name": "\/Resources\/Resource78",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "79",
+                    "uid": "1544580215174378:41969",
+                    "name": "\/Resources\/Resource79",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "80",
+                    "uid": "1544580225828241:41996",
+                    "name": "\/Resources\/Resource80",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "81",
+                    "uid": "1544580234902097:42023",
+                    "name": "\/Resources\/Resource81",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "90",
+                    "uid": "1551902313051655:29938",
+                    "name": "Files\/File38",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "92",
+                    "uid": "1551902459530031:37599",
+                    "name": "Files\/File41",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "94",
+                    "uid": "1551903005661413:51678",
+                    "name": "Files\/File44",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "96",
+                    "uid": "1552331357751071:457277",
+                    "name": "Files\/File55.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "97",
+                    "uid": "1590177199139212:3495",
+                    "name": "Files\/File93.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "98",
+                    "uid": "1590177199740108:3504",
+                    "name": "Files\/File95",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "99",
+                    "uid": "1590177200227980:3513",
+                    "name": "Files\/File97.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "100",
+                    "uid": "1590177200288623:3520",
+                    "name": "Files\/File99.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "101",
+                    "uid": "1590177200346007:3527",
+                    "name": "Files\/File101.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "102",
+                    "uid": "1590177200407740:3534",
+                    "name": "Files\/File103.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "103",
+                    "uid": "1590177200471672:3541",
+                    "name": "Files\/File105.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "104",
+                    "uid": "1590177200543888:3548",
+                    "name": "Files\/File107.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1543431498920718:12509",
+                "4": "1543431498920916:12512",
+                "5": "1543431498921090:12515",
+                "6": "1543431638715040:18349",
+                "7": "1543432967354792:22622",
+                "8": "1543434015996082:35502",
+                "9": "1543434015996157:35508",
+                "10": "1543434131426888:51754",
+                "11": "1543434131426955:51760",
+                "12": "1543439045695685:157257",
+                "13": "1543441922294218:195836",
+                "14": "1543441922294302:195842",
+                "15": "1543446458371844:244415",
+                "16": "1543446458371922:244421",
+                "17": "1543446458378588:244597",
+                "18": "1543446458378703:244603",
+                "19": "1543448436049900:283657",
+                "20": "1543448436049988:283663",
+                "21": "1543450241999985:316818",
+                "22": "1543450242000061:316824",
+                "23": "1543539220588613:122086",
+                "24": "1543539220588678:122092",
+                "25": "1543540066040406:184274",
+                "26": "1543540066040485:184280",
+                "27": "1543540066050076:184456",
+                "28": "1543540066050285:184462",
+                "29": "1543612545259138:149429",
+                "30": "1543612545259234:149435",
+                "31": "1543613005388159:170854",
+                "32": "1544586764074067:539760",
+                "33": "1544642740602078:870757",
+                "34": "1544642756936287:876273",
+                "35": "1544642783072806:883503",
+                "36": "1544643017752251:994605",
+                "37": "1544643202216547:1034433"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.js"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.js"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.png"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.png"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.png"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.lsmat"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.lsmat"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.lsmat"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.lsmat"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.lsmat"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.lsmat"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.lsmat"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.lsmat"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.jpg"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.jpg"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.lsmat"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.lsmat"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.lsmat"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.lsmat"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.lsmat"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.lsmat"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.lsmat"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.lsmat"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.lsmat"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.lsmat"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.lsmat"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.lsmat"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.lsmat"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.lsmat"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.lsmat"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.lsmat"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.lsmat"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.lsmat"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.lsmat"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.lsmat"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.lsmat"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.lsmat"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.lsmat"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.lsmat"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.lsmat"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.lsmat"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.lsmat"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.lsmat"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.lsmat"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.lsmat"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.lsmat"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.lsmat"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.png"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.png"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.gif"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.png"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.png"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.png"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.png"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.png"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.png"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.png"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.png"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.png"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.png"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107.png"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Scripts\/PaperHeadController.js"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Scripts\/PaperHeadProperties.js"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Textures\/Nose"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Textures\/Nose\/nose.png"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Textures\/Mouth"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Textures\/Mouth\/Sliding Mouth"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Textures\/Mouth\/Sliding Mouth\/mouth_sliding.png"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Textures\/Mouth\/Texture Sequence"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Textures\/Mouth\/Texture Sequence\/mouth_5.png"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Textures\/Mouth\/Texture Sequence\/mouth_4.png"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Textures\/Mouth\/Texture Sequence\/mouth_3.png"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Textures\/Mouth\/Texture Sequence\/mouth_2.png"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Textures\/Mouth\/Texture Sequence\/mouth_1.png"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Textures\/Mouth\/Animated Textures"
+                    },
+                    {
+                        "k": "18",
+                        "v": "Textures\/Head"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Textures\/Head\/head_sliding.png"
+                    },
+                    {
+                        "k": "20",
+                        "v": "Textures\/Eye Right"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Textures\/Eye Right\/Texture Sequence"
+                    },
+                    {
+                        "k": "22",
+                        "v": "Textures\/Eye Right\/Texture Sequence\/eye_right_5.png"
+                    },
+                    {
+                        "k": "23",
+                        "v": "Textures\/Eye Right\/Texture Sequence\/eye_right_4.png"
+                    },
+                    {
+                        "k": "24",
+                        "v": "Textures\/Eye Right\/Texture Sequence\/eye_right_3.png"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Textures\/Eye Right\/Texture Sequence\/eye_right_2.png"
+                    },
+                    {
+                        "k": "26",
+                        "v": "Textures\/Eye Right\/Texture Sequence\/eye_right_1.png"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Textures\/Eye Right\/Animated Textures"
+                    },
+                    {
+                        "k": "29",
+                        "v": "Textures\/Eye Left"
+                    },
+                    {
+                        "k": "30",
+                        "v": "Textures\/Eye Left\/Texture Sequence"
+                    },
+                    {
+                        "k": "31",
+                        "v": "Textures\/Eye Left\/Texture Sequence\/eye_left_1.png"
+                    },
+                    {
+                        "k": "32",
+                        "v": "Textures\/Eye Left\/Texture Sequence\/eye_left_2.png"
+                    },
+                    {
+                        "k": "33",
+                        "v": "Textures\/Eye Left\/Animated Textures"
+                    },
+                    {
+                        "k": "35",
+                        "v": "Textures\/Debug"
+                    },
+                    {
+                        "k": "36",
+                        "v": "Textures\/Debug\/debug_sprite.png"
+                    },
+                    {
+                        "k": "37",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "38",
+                        "v": "Materials\/yellow_guide.lsmat"
+                    },
+                    {
+                        "k": "39",
+                        "v": "Materials\/pink_guide.lsmat"
+                    },
+                    {
+                        "k": "40",
+                        "v": "Materials\/nose_sprite_material.lsmat"
+                    },
+                    {
+                        "k": "41",
+                        "v": "Materials\/left_eye_sprite_material.lsmat"
+                    },
+                    {
+                        "k": "42",
+                        "v": "Materials\/right_eye_sprite_material.lsmat"
+                    },
+                    {
+                        "k": "43",
+                        "v": "Materials\/mouth_sprite_material.lsmat"
+                    },
+                    {
+                        "k": "44",
+                        "v": "Materials\/slide_mouth_sprite_material.lsmat"
+                    },
+                    {
+                        "k": "45",
+                        "v": "Materials\/slide_head_sprite_material.lsmat"
+                    },
+                    {
+                        "k": "70",
+                        "v": "Textures\/Eye Right\/Animated Textures\/eye_right_animated_texture"
+                    },
+                    {
+                        "k": "77",
+                        "v": "Textures\/Eye Left\/Animated Textures\/eye_left_animated_texture"
+                    },
+                    {
+                        "k": "84",
+                        "v": "Textures\/Mouth\/Animated Textures\/mouth_animated_texture"
+                    },
+                    {
+                        "k": "85",
+                        "v": "Textures\/sprite_texture.jpg"
+                    },
+                    {
+                        "k": "86",
+                        "v": "Textures\/Mouth\/Sliding Mouth\/LOWER.png"
+                    },
+                    {
+                        "k": "87",
+                        "v": "Eyes Sticker.gif"
+                    },
+                    {
+                        "k": "88",
+                        "v": "head_sliding 2.png"
+                    },
+                    {
+                        "k": "89",
+                        "v": "head_sliding 3.png"
+                    },
+                    {
+                        "k": "90",
+                        "v": "head_sliding 4.png"
+                    },
+                    {
+                        "k": "91",
+                        "v": "head_sliding.png"
+                    },
+                    {
+                        "k": "92",
+                        "v": "LOWER.png"
+                    },
+                    {
+                        "k": "93",
+                        "v": "nose.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "affeffb4472ca46698654ecaa323a55d"
+                    },
+                    {
+                        "k": "3",
+                        "v": "878d083baf170bb546cd3046f9593847"
+                    },
+                    {
+                        "k": "6",
+                        "v": "633227669d6009327aaed813c9177afd"
+                    },
+                    {
+                        "k": "9",
+                        "v": "86d998b6c59dd0a95e890fa3c937dc07"
+                    },
+                    {
+                        "k": "11",
+                        "v": "f78c6eacd65a09049d39086a50ecbc05"
+                    },
+                    {
+                        "k": "12",
+                        "v": "7bb368696a00041a32e21763fa97309d"
+                    },
+                    {
+                        "k": "13",
+                        "v": "3493c65b0ca048c1c6f10e395ac4c464"
+                    },
+                    {
+                        "k": "14",
+                        "v": "d7ec00ec2968ad6a11fcfc979a165cd8"
+                    },
+                    {
+                        "k": "15",
+                        "v": "c61608ff82b380e4ed3fa280ed99f76f"
+                    },
+                    {
+                        "k": "17",
+                        "v": "da440775746da422f24694ff59540510"
+                    },
+                    {
+                        "k": "19",
+                        "v": "5ada460c258b923415fdca7dda8ccfeb"
+                    },
+                    {
+                        "k": "22",
+                        "v": "532dcffb7d920e3970d0a519ca7fa51e"
+                    },
+                    {
+                        "k": "23",
+                        "v": "8334b68186a42f15db5859eb28d62dd5"
+                    },
+                    {
+                        "k": "24",
+                        "v": "dd7f9f6adc8fa44420469b262035004b"
+                    },
+                    {
+                        "k": "25",
+                        "v": "37ef8b797c54f2ce429bf025ebd2ae1a"
+                    },
+                    {
+                        "k": "26",
+                        "v": "7869d106e6f74cbd876df8a8a7176cee"
+                    },
+                    {
+                        "k": "28",
+                        "v": "56d1d5cc49486fe6782e330e95702c1f"
+                    },
+                    {
+                        "k": "31",
+                        "v": "287f5829d9bb483c254d4c5a4ddbb46b"
+                    },
+                    {
+                        "k": "32",
+                        "v": "6ba678df2f9ad3c2546f1a06d1ecc915"
+                    },
+                    {
+                        "k": "34",
+                        "v": "2bcbe14c0695dc13532048b12b048770"
+                    },
+                    {
+                        "k": "36",
+                        "v": "139773c4963a705802f708108df795c6"
+                    },
+                    {
+                        "k": "38",
+                        "v": "62fb08846aef7963d5ff98353dfbe2f8"
+                    },
+                    {
+                        "k": "39",
+                        "v": "c47d1192e9ed10331e7c33a2b89e7e58"
+                    },
+                    {
+                        "k": "40",
+                        "v": "5ef1a28509f90227b1691e3d0610a97b"
+                    },
+                    {
+                        "k": "41",
+                        "v": "4655b145a6b720528616fb1f00f252bd"
+                    },
+                    {
+                        "k": "42",
+                        "v": "7b44c8b334b72c6e1e78c7b0c15959cd"
+                    },
+                    {
+                        "k": "43",
+                        "v": "c8afb18d99601d8e502bb270a6513005"
+                    },
+                    {
+                        "k": "44",
+                        "v": "251ccee9ca232cb8a2728339f592fd66"
+                    },
+                    {
+                        "k": "45",
+                        "v": "c059b6286973496d41b34379a7a7ca07"
+                    },
+                    {
+                        "k": "49",
+                        "v": "013f2f52beca0ab861a01ed9dbe814ee"
+                    },
+                    {
+                        "k": "55",
+                        "v": "cc2429b6a921213e94b2021d801338dc"
+                    },
+                    {
+                        "k": "61",
+                        "v": "a8345f1f31dab7f22c5d09bc0ef38988"
+                    },
+                    {
+                        "k": "67",
+                        "v": "cc2429b6a921213e94b2021d801338dc"
+                    },
+                    {
+                        "k": "70",
+                        "v": "00ed023cf759a88b710b781c0777411a"
+                    },
+                    {
+                        "k": "74",
+                        "v": "a8345f1f31dab7f22c5d09bc0ef38988"
+                    },
+                    {
+                        "k": "77",
+                        "v": "8942518f1e02505a7ad819b456145373"
+                    },
+                    {
+                        "k": "81",
+                        "v": "013f2f52beca0ab861a01ed9dbe814ee"
+                    },
+                    {
+                        "k": "84",
+                        "v": "32fa9a2d1f7d88f329f500819e2adbe3"
+                    },
+                    {
+                        "k": "85",
+                        "v": "24006fd7408670db8d6088bf3d7f5f5e"
+                    },
+                    {
+                        "k": "86",
+                        "v": "70945fe63a600c39e628925cd18f563e"
+                    },
+                    {
+                        "k": "87",
+                        "v": "85be2fecb53ea45c3fd08b2ad18e40db"
+                    },
+                    {
+                        "k": "88",
+                        "v": "f9a103456026bed0a1321b595963a256"
+                    },
+                    {
+                        "k": "89",
+                        "v": "ed66e5aec56c00aaec2931728e6b1733"
+                    },
+                    {
+                        "k": "90",
+                        "v": "bc423bc0231877ddf5fea8eb2c151a34"
+                    },
+                    {
+                        "k": "91",
+                        "v": "505b40c5da5a5ec9deb0a92852356e20"
+                    },
+                    {
+                        "k": "92",
+                        "v": "70945fe63a600c39e628925cd18f563e"
+                    },
+                    {
+                        "k": "93",
+                        "v": "ba781d4fde04cf58ecfdb9d6c7ce09d7"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-05-23T01:06:19",
+                        "name": "Public",
+                        "hash": "34ed84362c47f24b7ff4fb8879aeba26",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-23T01:03:15",
+                                "name": "Eyes Sticker.gif",
+                                "hash": "85be2fecb53ea45c3fd08b2ad18e40db",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:20:02",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-23T00:29:30",
+                                "name": "head_sliding 2.png",
+                                "hash": "f9a103456026bed0a1321b595963a256",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-23T00:30:30",
+                                "name": "head_sliding 3.png",
+                                "hash": "ed66e5aec56c00aaec2931728e6b1733",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-23T00:33:27",
+                                "name": "head_sliding 4.png",
+                                "hash": "bc423bc0231877ddf5fea8eb2c151a34",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-23T00:12:49",
+                                "name": "head_sliding.png",
+                                "hash": "505b40c5da5a5ec9deb0a92852356e20",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-23T00:25:44",
+                                "name": "LOWER.png",
+                                "hash": "70945fe63a600c39e628925cd18f563e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-23T00:01:27",
+                                "name": "Materials",
+                                "hash": "f9ea2a1e38d43ed558d6f11c25a6426e",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "left_eye_sprite_material.lsmat",
+                                        "hash": "4655b145a6b720528616fb1f00f252bd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "mouth_sprite_material.lsmat",
+                                        "hash": "c8afb18d99601d8e502bb270a6513005",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "nose_sprite_material.lsmat",
+                                        "hash": "5ef1a28509f90227b1691e3d0610a97b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "pink_guide.lsmat",
+                                        "hash": "c47d1192e9ed10331e7c33a2b89e7e58",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "right_eye_sprite_material.lsmat",
+                                        "hash": "7b44c8b334b72c6e1e78c7b0c15959cd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "slide_head_sprite_material.lsmat",
+                                        "hash": "c059b6286973496d41b34379a7a7ca07",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "slide_mouth_sprite_material.lsmat",
+                                        "hash": "251ccee9ca232cb8a2728339f592fd66",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "yellow_guide.lsmat",
+                                        "hash": "62fb08846aef7963d5ff98353dfbe2f8",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-23T00:42:04",
+                                "name": "nose.png",
+                                "hash": "ba781d4fde04cf58ecfdb9d6c7ce09d7",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-23T00:01:27",
+                                "name": "Scripts",
+                                "hash": "f2863155c9e98ef52b423b05ef1e3a4d",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "PaperHeadController.js",
+                                        "hash": "affeffb4472ca46698654ecaa323a55d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "PaperHeadProperties.js",
+                                        "hash": "878d083baf170bb546cd3046f9593847",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-23T00:01:27",
+                                "name": "Textures",
+                                "hash": "7ebb44acb1eb246f374f41acb17d8f60",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-05-23T00:01:27",
+                                        "name": "Debug",
+                                        "hash": "42c64241486c15e569482dce447c5b83",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:20:02",
+                                                "name": "debug_sprite.png",
+                                                "hash": "139773c4963a705802f708108df795c6",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:20:02",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-05-23T00:01:27",
+                                        "name": "Eye Left",
+                                        "hash": "fb6189b680104aa151c5bae49792fbd0",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-05-23T00:01:27",
+                                                "name": "Animated Textures",
+                                                "hash": "33984fd7366f30ba50abaa0100eca82f",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2020-05-23T00:01:27",
+                                                        "name": "eye_left_animated_texture",
+                                                        "hash": "018577464dd34d2d5938e9925dabbfa7",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-01-31T13:20:02",
+                                                                "name": "animation.t3d",
+                                                                "hash": "a41014248ef45ef9d293b4472b741bba",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-01-31T13:20:02",
+                                                                "name": "atlas_0.png",
+                                                                "hash": "027e463c637eca74de14719ff2eaca23",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-01-31T13:20:02",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:20:02",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-05-23T00:01:27",
+                                                "name": "Texture Sequence",
+                                                "hash": "c847cc0a61ae65e004150e284c5b7e3e",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "eye_left_1.png",
+                                                        "hash": "287f5829d9bb483c254d4c5a4ddbb46b",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "eye_left_2.png",
+                                                        "hash": "6ba678df2f9ad3c2546f1a06d1ecc915",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-05-23T00:01:27",
+                                        "name": "Eye Right",
+                                        "hash": "cb41d84291bc42c8fce2a4a246d24b1b",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-05-23T00:01:27",
+                                                "name": "Animated Textures",
+                                                "hash": "cb3e06f60e7fe029a1aea182811cb4ac",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2020-05-23T00:01:27",
+                                                        "name": "eye_right_animated_texture",
+                                                        "hash": "4f91365fac6051d9d49b5bcc963b3463",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-01-31T13:20:02",
+                                                                "name": "animation.t3d",
+                                                                "hash": "5f9dab458bac3942626628cd477833e7",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-01-31T13:20:02",
+                                                                "name": "atlas_0.png",
+                                                                "hash": "fcf97b808f434569af46faf328d527ae",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-01-31T13:20:02",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:20:02",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-05-23T00:01:27",
+                                                "name": "Texture Sequence",
+                                                "hash": "a144f9371170f0d5d4275f20973ead9b",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "eye_right_1.png",
+                                                        "hash": "7869d106e6f74cbd876df8a8a7176cee",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "eye_right_2.png",
+                                                        "hash": "37ef8b797c54f2ce429bf025ebd2ae1a",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "eye_right_3.png",
+                                                        "hash": "dd7f9f6adc8fa44420469b262035004b",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "eye_right_4.png",
+                                                        "hash": "8334b68186a42f15db5859eb28d62dd5",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "eye_right_5.png",
+                                                        "hash": "532dcffb7d920e3970d0a519ca7fa51e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-05-23T00:01:27",
+                                        "name": "Head",
+                                        "hash": "abc1948b4c12ee972a639c7b95ea6279",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:20:02",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:20:02",
+                                                "name": "head_sliding.png",
+                                                "hash": "5ada460c258b923415fdca7dda8ccfeb",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-05-23T00:01:27",
+                                        "name": "Mouth",
+                                        "hash": "f315fcb8d9ff0dba39ddf8e9f7d5ee5d",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-05-23T00:01:27",
+                                                "name": "Animated Textures",
+                                                "hash": "baf3bc16883f230a8b2c02b386584ee1",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2020-05-23T00:01:27",
+                                                        "name": "mouth_animated_texture",
+                                                        "hash": "191c9de27b3514a7e65111701794f20b",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-01-31T13:20:02",
+                                                                "name": "animation.t3d",
+                                                                "hash": "95e95c674aec2f35c8cfa9e68ff0d323",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-01-31T13:20:02",
+                                                                "name": "atlas_0.png",
+                                                                "hash": "0d5deb1cc7a3151aa1cfbb9b70db4104",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2020-01-31T13:20:02",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:20:02",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-05-23T00:24:45",
+                                                "name": "Sliding Mouth",
+                                                "hash": "f0cc301e548ed8adcede6e3659499f92",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-05-23T00:24:45",
+                                                        "name": "LOWER.png",
+                                                        "hash": "70945fe63a600c39e628925cd18f563e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "mouth_sliding.png",
+                                                        "hash": "86d998b6c59dd0a95e890fa3c937dc07",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-05-23T00:01:27",
+                                                "name": "Texture Sequence",
+                                                "hash": "0a8434c369883fc059b662f88287c09e",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "mouth_1.png",
+                                                        "hash": "c61608ff82b380e4ed3fa280ed99f76f",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "mouth_2.png",
+                                                        "hash": "d7ec00ec2968ad6a11fcfc979a165cd8",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "mouth_3.png",
+                                                        "hash": "3493c65b0ca048c1c6f10e395ac4c464",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "mouth_4.png",
+                                                        "hash": "7bb368696a00041a32e21763fa97309d",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-01-31T13:20:02",
+                                                        "name": "mouth_5.png",
+                                                        "hash": "f78c6eacd65a09049d39086a50ecbc05",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-05-23T00:01:27",
+                                        "name": "Nose",
+                                        "hash": "49eaf92afe123a958c018eb83dd3bcfa",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:20:02",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:20:02",
+                                                "name": "nose.png",
+                                                "hash": "633227669d6009327aaed813c9177afd",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:02",
+                                        "name": "sprite_texture.jpg",
+                                        "hash": "24006fd7408670db8d6088bf3d7f5f5e",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "70",
+                    "77",
+                    "84"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "PaperHeadController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "uid": "1543431622017236:17733",
+                                "fileId": "3",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "PaperHeadProperties",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "uid": "1543432111502216:19790",
+                                "fileId": "4",
+                                "originalId": "18446744073709551615",
+                                "publicId": "3",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "4",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Nose",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "5",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "nose",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "40",
+                                        "dependency": "0",
+                                        "uid": "1543448430325754:281528",
+                                        "fileId": "10",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "6",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mouth",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "7",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Sliding Mouth",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "mouth_sliding",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "55",
+                                                "dependency": "0",
+                                                "uid": "1543613002945803:169157",
+                                                "fileId": "17",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "9",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "LOWER",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "97",
+                                                "dependency": "0",
+                                                "uid": "1590177199139212:3495",
+                                                "fileId": "93",
+                                                "originalId": "94",
+                                                "publicId": "86",
+                                                "source": "C:\/Users\/Gaurav\/Documents\/PAPER\/Public\/Textures\/Mouth\/Sliding Mouth\/LOWER.png",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Texture Sequence",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "10",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "mouth_5",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "43",
+                                                "dependency": "0",
+                                                "uid": "1543539210157887:121245",
+                                                "fileId": "11",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "11",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "mouth_4",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "44",
+                                                "dependency": "0",
+                                                "uid": "1543539210193558:121257",
+                                                "fileId": "12",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "12",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "mouth_3",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "45",
+                                                "dependency": "0",
+                                                "uid": "1543539210262148:121269",
+                                                "fileId": "13",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "13",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "mouth_2",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "46",
+                                                "dependency": "0",
+                                                "uid": "1543539210305854:121281",
+                                                "fileId": "14",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "14",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "mouth_1",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "47",
+                                                "dependency": "0",
+                                                "uid": "1543539210372422:121293",
+                                                "fileId": "15",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "15",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Animated Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "16",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "mouth_animated_texture",
+                                                "type": "1",
+                                                "subtype": "5",
+                                                "resourceId": "94",
+                                                "dependency": "0",
+                                                "uid": "1551903005661413:51678",
+                                                "fileId": "44",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "84",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Head",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "head_sliding",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "53",
+                                        "dependency": "0",
+                                        "uid": "1543612460183348:148700",
+                                        "fileId": "16",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "19",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eye Right",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "20",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Texture Sequence",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "21",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "eye_right_5",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "32",
+                                                "dependency": "0",
+                                                "uid": "1543441892428511:193116",
+                                                "fileId": "5",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "22",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "eye_right_4",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "33",
+                                                "dependency": "0",
+                                                "uid": "1543441892536917:193128",
+                                                "fileId": "6",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "23",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "eye_right_3",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "34",
+                                                "dependency": "0",
+                                                "uid": "1543441892629558:193140",
+                                                "fileId": "7",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "24",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "eye_right_2",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "35",
+                                                "dependency": "0",
+                                                "uid": "1543441892729196:193151",
+                                                "fileId": "8",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "25",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "eye_right_1",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "36",
+                                                "dependency": "0",
+                                                "uid": "1543441892837273:193164",
+                                                "fileId": "9",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Animated Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "27",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "eye_right_animated_texture",
+                                                "type": "1",
+                                                "subtype": "5",
+                                                "resourceId": "90",
+                                                "dependency": "0",
+                                                "uid": "1551902313051655:29938",
+                                                "fileId": "38",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "70",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Eye Left",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Texture Sequence",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "30",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "eye_left_1",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "10",
+                                                "dependency": "0",
+                                                "uid": "1543431483277630:12483",
+                                                "fileId": "1",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "31",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "eye_left_2",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "11",
+                                                "dependency": "0",
+                                                "uid": "1543431483323381:12496",
+                                                "fileId": "2",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "32",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Animated Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "33",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "eye_left_animated_texture",
+                                                "type": "1",
+                                                "subtype": "5",
+                                                "resourceId": "92",
+                                                "dependency": "0",
+                                                "uid": "1551902459530031:37599",
+                                                "fileId": "41",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "77",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Debug",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "35",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "debug_sprite",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "68",
+                                        "dependency": "0",
+                                        "uid": "1543883877111795:2122687",
+                                        "fileId": "18",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "36",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "sprite_texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "96",
+                                "dependency": "0",
+                                "uid": "1552331357751071:457277",
+                                "fileId": "55",
+                                "originalId": "18446744073709551615",
+                                "publicId": "85",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "37",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "yellow_guide",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "70",
+                                "dependency": "0",
+                                "uid": "1543888185240900:2427836",
+                                "fileId": "19",
+                                "originalId": "85",
+                                "publicId": "38",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "pink_guide",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "71",
+                                "dependency": "0",
+                                "uid": "1543888227488279:2435953",
+                                "fileId": "20",
+                                "originalId": "86",
+                                "publicId": "39",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "nose_sprite_material",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "76",
+                                "dependency": "0",
+                                "uid": "1544577589978078:95755",
+                                "fileId": "21",
+                                "originalId": "87",
+                                "publicId": "40",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "left_eye_sprite_material",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "77",
+                                "dependency": "0",
+                                "uid": "1544580188402617:41915",
+                                "fileId": "22",
+                                "originalId": "88",
+                                "publicId": "41",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "right_eye_sprite_material",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "78",
+                                "dependency": "0",
+                                "uid": "1544580204214916:41942",
+                                "fileId": "23",
+                                "originalId": "89",
+                                "publicId": "42",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "mouth_sprite_material",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "79",
+                                "dependency": "0",
+                                "uid": "1544580215174378:41969",
+                                "fileId": "24",
+                                "originalId": "90",
+                                "publicId": "43",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "slide_mouth_sprite_material",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "80",
+                                "dependency": "0",
+                                "uid": "1544580225828241:41996",
+                                "fileId": "25",
+                                "originalId": "91",
+                                "publicId": "44",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "slide_head_sprite_material",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "81",
+                                "dependency": "0",
+                                "uid": "1544580234902097:42023",
+                                "fileId": "26",
+                                "originalId": "92",
+                                "publicId": "45",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Eyes Sticker",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "98",
+                        "dependency": "0",
+                        "uid": "1590177199740108:3504",
+                        "fileId": "95",
+                        "originalId": "96",
+                        "publicId": "87",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "head_sliding 2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "99",
+                        "dependency": "0",
+                        "uid": "1590177200227980:3513",
+                        "fileId": "97",
+                        "originalId": "98",
+                        "publicId": "88",
+                        "source": "C:\/Users\/Gaurav\/Documents\/PAPER\/Public\/head_sliding 2.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "head_sliding 3",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "100",
+                        "dependency": "0",
+                        "uid": "1590177200288623:3520",
+                        "fileId": "99",
+                        "originalId": "100",
+                        "publicId": "89",
+                        "source": "C:\/Users\/Gaurav\/Documents\/PAPER\/Public\/head_sliding 3.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "head_sliding 4",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "101",
+                        "dependency": "0",
+                        "uid": "1590177200346007:3527",
+                        "fileId": "101",
+                        "originalId": "102",
+                        "publicId": "90",
+                        "source": "C:\/Users\/Gaurav\/Documents\/PAPER\/Public\/head_sliding 4.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "head_sliding",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "102",
+                        "dependency": "0",
+                        "uid": "1590177200407740:3534",
+                        "fileId": "103",
+                        "originalId": "104",
+                        "publicId": "91",
+                        "source": "C:\/Users\/Gaurav\/Documents\/PAPER\/Public\/head_sliding.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "LOWER",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "103",
+                        "dependency": "0",
+                        "uid": "1590177200471672:3541",
+                        "fileId": "105",
+                        "originalId": "106",
+                        "publicId": "92",
+                        "source": "C:\/Users\/Gaurav\/Documents\/PAPER\/Public\/LOWER.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "nose",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "104",
+                        "dependency": "0",
+                        "uid": "1590177200543888:3548",
+                        "fileId": "107",
+                        "originalId": "108",
+                        "publicId": "93",
+                        "source": "C:\/Users\/Gaurav\/Documents\/PAPER\/Public\/nose.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1543431638715040:18349"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
